@@ -1,1 +1,1 @@
-# pediatric-appendicitis-ml
+# Machine Learning & Pediatric Appendicitis
