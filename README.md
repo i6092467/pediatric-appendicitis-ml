@@ -7,8 +7,8 @@ This reserach was carried out by the [Medical Data Science research group](https
 ### Requirements
 
 To run this code, you will need
-- R, version ≥ 3.6.2
-- RStudio, version ≥ 1.1.456
+- [R](https://www.r-project.org/), version ≥ 3.6.2
+- [RStudio](https://rstudio.com/), version ≥ 1.1.456
 
 All the necessary packages can be installed by running `setup_script.R`.
 
