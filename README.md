@@ -5,6 +5,7 @@
 To run this code, you will need
 - R, version ≥ 3.6.2
 - RStudio, version ≥ 1.1.456
+
 All the necessary packages can be installed by running `setup_script.R`.
 
 ### Usage
