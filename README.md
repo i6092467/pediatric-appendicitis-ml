@@ -1,5 +1,7 @@
 # Machine Learning & Pediatric Appendicitis
 
+This repository holds the code for the analysis of the data from pediatric patients with suspected appendictis. Machine learning (ML) models are trained and validated to perform the prediction of the diagnosis, management, and severity. The resulting models were deployed as a research prototype of the [Pediatric Appendicitis Prediction Tool](https://papt.inf.ethz.ch/).
+
 ### Requirements
 
 To run this code, you will need
