@@ -14,7 +14,10 @@ All the necessary packages can be installed by running `setup_script.R`.
 
 ### Usage
 
-Scr
+- `setup_script.R` sets up necessary packages and utility functions
+- `eda.R` performs some basic exploratory analysis on the dataset
+- `diagnosis.R`, `management.R`, and `severity.R` validate logistic regression, random forest, and gradient boosting models for predicting diagnosis, management, and severity, respectively
+- `variable_selection.R` performs variable selection based on the random forest variable importance
 
 ### Maintainer 
 
