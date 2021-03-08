@@ -14,8 +14,8 @@ Scr
 
 ### Maintainer 
 
-This repository is maintained by Ričards Marcinkevičs ([ricards.marcinkevics@inf.ethz.ch](mailto:ricards.marcinkevics@inf.ethz.ch))
+This repository is maintained by Ričards Marcinkevičs ([ricards.marcinkevics@inf.ethz.ch](mailto:ricards.marcinkevics@inf.ethz.ch)).
 
 ### Data Availability
 
-The data are available on a reasonable request from Patricia Reis Wolfertstetter ([patricia.reiswolfertstetter@barmherzige-regensburg.de](mailto:patricia.reiswolfertstetter@barmherzige-regensburg.de))
+The data are available on a reasonable request from Patricia Reis Wolfertstetter ([patricia.reiswolfertstetter@barmherzige-regensburg.de](mailto:patricia.reiswolfertstetter@barmherzige-regensburg.de)).
