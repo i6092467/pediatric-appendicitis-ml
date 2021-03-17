@@ -12,6 +12,11 @@ To run this code, you will need
 
 All the necessary packages can be installed by running `setup_script.R`.
 
+
+### Data
+
+The data are provided in CSV and RDA fromats in `app_data.csv` and `app_data_clean.Rda` files, respectively.
+
 ### Usage
 
 - `setup_script.R` sets up necessary packages and utility functions
@@ -22,7 +27,3 @@ All the necessary packages can be installed by running `setup_script.R`.
 ### Maintainer 
 
 This repository is maintained by Ričards Marcinkevičs ([ricards.marcinkevics@inf.ethz.ch](mailto:ricards.marcinkevics@inf.ethz.ch)).
-
-### Data Availability
-
-The data are available on a reasonable request from Patricia Reis Wolfertstetter ([patricia.reiswolfertstetter@barmherzige-regensburg.de](mailto:patricia.reiswolfertstetter@barmherzige-regensburg.de)).
