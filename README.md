@@ -27,3 +27,18 @@ The data are provided in CSV and RDA fromats in `app_data.csv` and `app_data_cle
 ### Maintainer 
 
 This repository is maintained by Ričards Marcinkevičs ([ricards.marcinkevics@inf.ethz.ch](mailto:ricards.marcinkevics@inf.ethz.ch)).
+
+### Citation
+
+If you use the dataset, please cite the paper:
+```
+@article{MarcinkevicsWolfertstetter2021,
+  title={Using Machine Learning to Predict the Diagnosis, Management and Severity of Pediatric Appendicitis},
+  author={Marcinkevics, Ricards and Reis Wolfertstetter, Patricia and Wellmann, Sven and Knorr, Christian and Vogt, Julia E},
+  journal={Frontiers in Pediatrics},
+  volume={9},
+  pages={360},
+  year={2021},
+  publisher={Frontiers}
+}
+```
