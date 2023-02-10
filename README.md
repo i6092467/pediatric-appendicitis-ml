@@ -56,6 +56,6 @@ If you use the dataset, please cite papers below:
 
 ### Copyright
 
-This repository is copyright (c) 2021 Marcinkevics R, Reis Wolfertstetter P, Wellmann S, Knorr C and Vogt JE.
+This repository is copyright © 2021 Marcinkevics, Reis Wolfertstetter, Wellmann, Knorr and Vogt.
 
 This repository is additionally licensed under CC-BY-NC-4.0.
