@@ -1,3 +1,5 @@
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-4.0&color=green)
+
 # Machine Learning & Pediatric Appendicitis
 
 This repository holds the code for the analysis of the data from pediatric patients with suspected appendictis. Machine learning (ML) models are trained and validated to perform the prediction of the diagnosis, management, and severity. The resulting models were deployed as a research prototype of the [Pediatric Appendicitis Prediction Tool](https://papt.inf.ethz.ch/). Further details can be found in the [*Frontiers in Pediatrics* paper](https://www.frontiersin.org/articles/10.3389/fped.2021.662183/full). Follow-up work on using supersparse linear integer models for interpretable classification was published in [2021 20<sup>th</sup> IEEE International Conference on Machine Learning and Applications](https://ieeexplore.ieee.org/abstract/document/9680150).
@@ -51,3 +53,9 @@ If you use the dataset, please cite papers below:
   
 }
 ```
+
+### Copyright
+
+This repository is copyright (c) 2021 Marcinkevics R, Reis Wolfertstetter P, Wellmann S, Knorr C and Vogt JE.
+
+This repository is additionally licensed under CC-BY-NC-4.0.
