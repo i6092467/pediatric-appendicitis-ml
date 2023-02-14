@@ -35,20 +35,22 @@ This repository is maintained by Ričards Marcinkevičs ([ricards.marcinkevics@i
 If you use the dataset, please cite papers below:
 ```
 @article{MarcinkevicsWolfertstetter2021,
-  title={Using Machine Learning to Predict the Diagnosis, Management and Severity of Pediatric Appendicitis},
-  author={Marcinkevics, Ricards and Reis Wolfertstetter, Patricia and Wellmann, Sven and Knorr, Christian and Vogt, Julia E},
-  journal={Frontiers in Pediatrics},
-  volume={9},
-  pages={360},
-  year={2021},
-  publisher={Frontiers}
+  title=      {Using Machine Learning to Predict the Diagnosis, Management and Severity of Pediatric Appendicitis},
+  author=     {Marcinkevics, Ricards and Reis Wolfertstetter, Patricia and Wellmann, Sven 
+                  and Knorr, Christian and Vogt, Julia E},
+  journal=    {Frontiers in Pediatrics},
+  volume=     {9},
+  pages=      {360},
+  year=       {2021},
+  publisher=  {Frontiers}
 }
 
 @inproceedings{RoigAparicio2021,
-  title = {Learning Medical Risk Scores for Pediatric Appendicitis},
-  author = {Pedro Roig Aparicio and Ricards Marcinkevics and Patricia Reis Wolfertstetter and Sven Wellmann and Christian Knorr and Julia E. Vogt},
+  title =     {Learning Medical Risk Scores for Pediatric Appendicitis},
+  author =    {Pedro Roig Aparicio and Ricards Marcinkevics and Patricia Reis Wolfertstetter and Sven Wellmann 
+                  and Christian Knorr and Julia E. Vogt},
   booktitle = {2021 20th {IEEE} International Conference on Machine Learning and Applications ({ICMLA})}
-  year = {2021},
+  year =      {2021},
   publisher = {{IEEE}}
   
 }
